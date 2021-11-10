@@ -11,4 +11,4 @@ package-lock.json
 main.js
 
 # obsidian
-data.json
+data.json.DS_Store
