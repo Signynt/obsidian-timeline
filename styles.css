@@ -161,7 +161,7 @@
 }
 
 .timeline {
-  --timeline-active-color: var(--background-modifier-success);
+  --timeline-active-color: #C4C4C4;
 }
 
 .timeline.active-color-background-modifier-success {
@@ -232,7 +232,7 @@
   -ms-flex-item-align: start;
       -ms-grid-row-align: start;
       align-self: start;
-  text-align: right;
+  text-align: left;
 }
 
 .timeline .time-container::before, .timeline .time-container::after {
